@@ -1,0 +1,4 @@
+/home/zhaoxi/Desktop/two_camera/biaoding/stereo_calibrate/build/CMakeFiles/edit_cache.dir
+/home/zhaoxi/Desktop/two_camera/biaoding/stereo_calibrate/build/CMakeFiles/rebuild_cache.dir
+/home/zhaoxi/Desktop/two_camera/biaoding/stereo_calibrate/build/CMakeFiles/Stereo_Calibrate.dir
+/home/zhaoxi/Desktop/two_camera/biaoding/stereo_calibrate/build/CMakeFiles/stereo.dir
